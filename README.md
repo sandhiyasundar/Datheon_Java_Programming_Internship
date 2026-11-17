@@ -1,45 +1,30 @@
-
 # Datheon Java Programming Internship
 
-## Task 2: Bank Account & ATM Simulation Engine
+This repository contains Java programming tasks completed as part of the Datheon Java Programming Internship.
 
-### Project Description
-This project is a Java-based Bank Account and ATM Simulation System developed using Object-Oriented Programming concepts.
+## Tasks Completed
 
-### Features
-- Savings Account
-- Checking Account
-- PIN Verification
-- Deposit
-- Withdrawal
-- Balance Enquiry
-- Interest Calculation
-- Overdraft Limit
-- Transaction History
-- Custom Exception Handling
+### Task 1: Student Grade Management System
+- Add student details
+- Record student marks
+- Calculate average marks
+- Generate report cards
 
-### Technologies Used
+### Task 2: Java Programming Task
+- Completed the assigned Java programming task.
+
+### Task 3: Word Analyzer
+- Count total words
+- Count unique words
+- Count sentences
+- Calculate average sentence length
+- Display the top 10 most frequent words
+
+## Technologies Used
 - Java
-- Object-Oriented Programming
-- Inheritance
-- Abstraction
-- Polymorphism
-- ArrayList
-- Exception Handling
+- HashMap
+- File Handling
+- Collections Framework
 
-### How to Run
-1. Open the project folder.
-2. Open the terminal.
-3. Compile the program:
-
-   javac -d . Task-2/ATM.java
-
-4. Run the program:
-
-   java ATM
-
-### Developer
-Sandhiya Sundaram
-
-### Internship
-Datheon Java Programming Internship
+## Author
+Sandhiya
